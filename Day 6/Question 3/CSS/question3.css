@@ -1,0 +1,15 @@
+body {
+    
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    
+}
+
+.dark-mode{
+
+    background-color: black;
+
+    color: white;
+
+}
